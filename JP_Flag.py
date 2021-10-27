@@ -1,13 +1,12 @@
 import turtle
-from turtle import *
 
-#Screen
+# Screen
 wn = turtle.Screen()
 wn.setup(width=800, height=600)
 wn.title("Japan")
 wn.bgcolor("White")
 
-#Circle
+# Circle
 
 turtle.pencolor("Red")
 turtle.speed(0)
