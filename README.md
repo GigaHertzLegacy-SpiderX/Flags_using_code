@@ -1,4 +1,5 @@
-# Bangladesh_Flag
-Very Very Beginner level python project ! Anyone can make this, before seeing the code, try out yourself :)
+## About this Repository !
 
-# Size Fixed !
+Flags of countries using Codes !
+
+add your country flag, I will surely merge it when I will active :D
