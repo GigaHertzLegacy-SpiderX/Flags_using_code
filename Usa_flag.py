@@ -1,9 +1,11 @@
 from turtle import *
+
 setup(800, 500)
 speed(0)
 
 x = -400
 y = 250
+
 
 def stripe():
     color("firebrick")
@@ -14,7 +16,7 @@ def stripe():
         forward(38)
         right(90)
     end_fill()
-    
+
 
 for i in range(7):
     penup()
@@ -22,7 +24,6 @@ for i in range(7):
     pendown()
     stripe()
     y = y - 76
-    
 
 penup()
 goto(-400, 250)
@@ -50,8 +51,9 @@ def star():
 x1 = -380
 y1 = 230
 
-x2 = -350 
+x2 = -350
 y2 = 205
+
 
 def even_row():
     global x1
@@ -68,7 +70,7 @@ for i in range(5):
     even_row()
     x1 = -380
     y1 = y1 - 52
-    
+
 
 def odd_row():
     global x2
@@ -80,9 +82,11 @@ def odd_row():
         star()
         x2 = x2 + 57
 
+
 for i in range(4):
     odd_row()
     x2 = -350
     y2 = y2 - 51
-    
+
 hideturtle()
+done()
