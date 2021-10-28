@@ -1,36 +1,23 @@
 from turtle import *
 
 wn = Screen()
+wn.setup(width=800, height=600)
+wn.title("Indonesia")
 
 penup()
-goto(-100,100)
+goto(-700, 330)
 pendown()
+
+speed(0)
 
 color("red")
 begin_fill()
-for count in range(2):
-  forward(200)
+for count in range(8):
+  forward(1800)
   right(90)
-  forward(50)
-  right(90)
-end_fill()
-
-penup()
-forward(200)
-right(90)
-forward(50)
-
-begin_fill()
-color("white")
-for count in range(2):
-  forward(50)
-  right(90)
-  forward(200)
+  forward(350)
   right(90)
 end_fill()
 
-color("black")
-penup()
-goto(0,125)
-write("Flag of Indonesia",align="center", font=("Arial", 15, "normal"))
 hideturtle()
+done()
