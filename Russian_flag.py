@@ -12,7 +12,7 @@ pendown()
 
 # BLue
 
-color("blue")
+color("Navy blue")
 begin_fill()
 forward(600)
 right(90)
