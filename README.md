@@ -37,8 +37,8 @@
 ## Reward For Maintainers
 The Hard Work Of Our Maintainers Is The Reason Hacktoberfest Exists, So We Want You To Have The Opportunity To Receive Your Very Own Hacktoberfest 2022 Reward. In Order To Become Eligible For The Opportunity To Win A Reward Kit All A Maintainer Will Have To Do Is Complete Four Or More Maintainer Actions On Unique Pr/mrs In Repos Participating In Hacktoberfest. Here Are The Maintainer Actions That Qualify:
 
-- Merge Unique Pr/mrs
-- Provide An Approving Review Of A Pr/mr
+- Merge Unique PR/MRs
+- Provide An Approving Review Of A PR/MR
 - Add The “hacktoberfest-accepted” Label
 - Add Any Label With The Word “invalid” Or “spam”
 
