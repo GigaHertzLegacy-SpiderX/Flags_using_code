@@ -10,13 +10,13 @@
 </p>
 
 ## Pull/merge Request Details
-- Your Pr/mrs Must Be Within The Bounds Of Hacktoberfest.
+- Your PR/MRs Must Be Within The Bounds Of Hacktoberfest.
 - Repos That Go Against Hacktoberfest’s Values Will Be Excluded From Qualification And Pr/mrs Made To Those Repos Won’t Count.
-- Our Pr/mrs Must Not Be Spammy.
-- Your Pr/mrs Must Be In A Repo Tagged With The “hacktoberfest” Topic, Or Be Labeled “hacktoberfest-accepted”
-- Your Pr/mrs Must Not Be Labeled As “invalid”.
-- Your Pr/mrs Must Be Merged, Have The “hacktoberfest-accepted” Label, Or Have An Overall Approving Review.
-- Your Pr/mr Must Not Be A Draft To Be Considered Accepted.
+- Our PR/MRs Must Not Be Spammy.
+- Your PR/MRs Must Be In A Repo Tagged With The “hacktoberfest” Topic, Or Be Labeled “hacktoberfest-accepted”
+- Your PR/MRs Must Not Be Labeled As “invalid”.
+- Your PR/MRs Must Be Merged, Have The “hacktoberfest-accepted” Label, Or Have An Overall Approving Review.
+- Your PR/MRs Must Not Be A Draft To Be Considered Accepted.
 - Once Your Pr/mrs Pass All The Checks Above, It Will Be Accepted For Hacktoberfest After The 7-day Review Period.
 
 ## Measures To Reduce Spam
@@ -43,3 +43,5 @@ The Hard Work Of Our Maintainers Is The Reason Hacktoberfest Exists, So We Want 
 - Add Any Label With The Word “invalid” Or “spam”
 
 *Reward Kits Are Limited; We Will Reach Out To Qualifying Maintainers Who Are Selected To Receive A Reward Kit After Hacktoberfest Ends.
+
+© GigaHertzLegacy -SpiderX
