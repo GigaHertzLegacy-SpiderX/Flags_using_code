@@ -70,3 +70,6 @@ t.penup()
 t.goto(350, -255)
 t.right(154)
 t.color("white", "white")
+
+t.hideturtle()
+t.done()
