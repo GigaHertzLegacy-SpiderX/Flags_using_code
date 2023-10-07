@@ -55,7 +55,7 @@ t.end_fill()
 
 # Mini Blue Circles
 t.penup()
-t.goto(-57, 8)
+t.goto(62, 8)
 t.pendown()
 t.color("navy")
 for i in range(24):
@@ -63,7 +63,7 @@ for i in range(24):
     t.circle(3)
     t.end_fill()
     t.penup()
-    t.forward(15)
+    t.backward(15)
     t.right(15)
     t.pendown()
 
