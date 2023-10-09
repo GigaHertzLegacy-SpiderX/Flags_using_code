@@ -53,21 +53,25 @@ t.begin_fill()
 t.circle(60)
 t.end_fill()
 
-# Mini Blue Circles
-t.penup()
-t.goto(-57, 8)
-t.pendown()
-t.color("navy")
-for i in range(24):
-    t.begin_fill()
-    t.circle(3)
-    t.end_fill()
-    t.penup()
-    t.forward(15)
-    t.right(15)
-    t.pendown()
+#work on this
+
+# # Mini Blue Circles
+# t.penup()
+# t.goto(62, 8)
+# t.pendown()
+# t.color("navy")
+# for i in range(24):
+#     t.begin_fill()
+#     t.circle(3)
+#     t.end_fill()
+#     t.penup()
+#     t.backward(15)
+#     t.right(15)
+#     t.pendown()
+
 
 # Small Blue Circle
+t.color("navy")
 t.penup()
 t.goto(20, 0)
 t.pendown()
